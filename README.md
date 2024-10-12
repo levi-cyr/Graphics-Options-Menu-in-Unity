@@ -1,4 +1,4 @@
-# Graphics-Options-Menu-in-Unity
+# Graphics Options Menu in Unity
 Real-time graphics settings adjustment in Unity.
 
 ## How to Enable and Disable VSync
